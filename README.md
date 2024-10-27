@@ -62,7 +62,7 @@ You can explore the entire project and run the code interactively using Google C
 ## References:
 
 
-https://www.kaggle.com/datasets/mastmustu/income
+https://archive.ics.uci.edu/dataset/2/adult
 
 
 https://medium.com/analytics-vidhya/building-classification-model-with-python-9bdfc13faa4b
